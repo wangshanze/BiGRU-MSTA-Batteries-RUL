@@ -1,2 +1,2 @@
 # BiGRU-MSTA-Batteries-RUL
-This repository is used to store the codes of papers to be published in Batteries, which will be uploaded after publication. 
+This repository is used to store the codes of papers to be published in Batteries, which will be uploaded after publication. MSTA is a multi-scale temporal attention mechanism, which is effectively applied to the life prediction of lithium batteries. Its performance in different fields and datasets with different feature scales will be explored in the future. Welcome to download the test.
